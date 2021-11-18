@@ -1,1 +1,1 @@
-![Chetan Munugala copy](https://user-images.githubusercontent.com/60587652/142345643-092d4c45-1d37-4ad1-97b8-18db68c26b52.jpg)
+![Chetan Munugala copy](https://user-images.githubusercontent.com/60587652/142346150-1e5e3e11-78b3-4f02-bdd3-4cd93f4f3bdf.jpg)
