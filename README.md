@@ -1,1 +1,1 @@
-![Green and Blue Gradients Technology Facebook Cover](https://user-images.githubusercontent.com/60587652/142343843-e21d782a-e04c-43d6-8df7-ca447e26ab9d.png)
+![Chetan Munugala copy](https://user-images.githubusercontent.com/60587652/142345643-092d4c45-1d37-4ad1-97b8-18db68c26b52.jpg)
