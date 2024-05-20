@@ -3,7 +3,7 @@ ____________________
 
 
 
-Data science master’s student with a genomics background and data analysis skills using Python, R, and SQL. Interested in applying statistical modeling and machine learning to solve real-world problems.
+Experienced data scientist with a highly technical scientific background who is interested in causal inference and machine learning models that bring real value. 
 
 
 Here are some projects I have been working on:
