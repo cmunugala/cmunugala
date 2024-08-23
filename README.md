@@ -25,5 +25,5 @@ Other interesting projects:
 
 * Predicting a new york taxi fare (new-york-taxi-fare) using Pytorch Neural Network
 
-* 
+
 * Building an API with FastAPI for new york taxi fare model
