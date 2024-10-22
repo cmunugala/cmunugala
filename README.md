@@ -12,7 +12,7 @@ Here is the most recent project I've been working on:
 
 Built a time series forecasting ML model in Python to forecast Redfin’s Housing Price Index three months into the future. This forecast can help interested parties such as real estate professionals, home buyers, home sellers, and financial institutions make better decisions and increase their understanding of the LA housing market.
 
-![image](https://github.com/cmunugala/redfin_index_forecasting/blob/main/forecast_plots/20240901_forecast.png)
+![image](https://github.com/cmunugala/redfin_index_forecasting/blob/main/forecast_plots/latest_forecast.png)
 
 
 See "redfin_index_forecasting" repo for more details. 
