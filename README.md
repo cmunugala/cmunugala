@@ -6,7 +6,7 @@
 ### 🔬 About Me
 - 🧬 Experienced ML Engineer/Data Scientist with a highly technical scientific background.
 - 🎯 Focused on building machine learning models that deliver tangible value.
-- 🚀 Interested in healthcare, genomics, and cybersecurity.
+- 🚀 Interested in machine learning, recommenders systems, genomics, security, and more.
 
 ### 📫 Connect with Me
-- https://www.linkedin.com/in/cmunugala/
+https://www.linkedin.com/in/cmunugala/
