@@ -4,9 +4,10 @@
 ---
 
 ### 🔬 About Me
-- 🧬 Experienced ML Engineer/Data Scientist with a highly technical scientific background.
-- 🎯 Focused on building machine learning models that deliver tangible value.
-- 🚀 Interested in machine learning, agentic AI, recommenders systems, genomics, security, and more.
+- experienced ml engineer
+- interested in machine learning/AI that makes the world work better
+- ex-ncaa athlete
+- based out of los angeles
 
 ### 📫 Connect with Me
 https://www.linkedin.com/in/cmunugala/
