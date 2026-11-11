@@ -1,7 +1,5 @@
 # Chetan Munugala
-**Machine Learning Engineer | Data Scientist | AI Engineer**
 
----
 - experienced ml engineer
 - interested in machine learning/AI that makes the world work better
 - ex-ncaa athlete
